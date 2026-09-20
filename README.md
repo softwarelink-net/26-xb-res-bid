@@ -39,7 +39,6 @@ npm run dev
 - `npm run preview`: 本地预览生产构建产物
 - `npm run lint`: 执行代码规范检查与 TypeScript 类型校验
 - `npm run screenshot`: 登录驾驶舱并刷新 `docs/assets/dashboard-preview.png`
-- `npm run deploy`: 生产构建并上传至 Cloudflare R2（`26-xb-res-bid.softwarelink.net`）
 
 ### 目录结构
 ```text
