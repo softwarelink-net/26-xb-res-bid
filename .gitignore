@@ -1,0 +1,7 @@
+# 兴文县新坝水库智慧监控
+node_modules
+dist
+.DS_Store
+*.local
+.vscode/*
+!.vscode/extensions.json
